@@ -51,7 +51,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-             SaMs Crypto
+             All Crypto
             </Typography>
             <Select
               variant="outlined"

@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            SaMs Crypto
+            All Crypto
           </Typography>
           <Typography
             variant="subtitle2"

@@ -1,12 +1,11 @@
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBNkcxdndVppncjDFydJUhewH4j53KaB9Q",
-  authDomain: "samscrypto-19fe2.firebaseapp.com",
-  projectId: "samscrypto-19fe2",
-  storageBucket: "samscrypto-19fe2.appspot.com",
-  messagingSenderId: "192489444770",
-  appId: "1:192489444770:web:bf749a8ac5026e6e5f8efb",
-  measurementId: "G-28NRD3HZ35"
+  apiKey: "AIzaSyCz0yqlFeP-9PwgK0tNJvQRLlkQpFBwcYg",
+  authDomain: "allcrypto-b7b0e.firebaseapp.com",
+  projectId: "allcrypto-b7b0e",
+  storageBucket: "allcrypto-b7b0e.appspot.com",
+  messagingSenderId: "1041810137812",
+  appId: "1:1041810137812:web:4760ffe0ef1f3a05925141"
 };
 
 
